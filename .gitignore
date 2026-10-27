@@ -1,0 +1,7 @@
+*.o
+/etrace
+/test_crash
+/dist/
+/build/
+*.etrace
+etrace-*.tmp
